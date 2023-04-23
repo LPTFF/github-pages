@@ -1,6 +1,18 @@
-<script setup lang="ts"></script>
 <template>
-  <div class="app" id="app">
-    <router-view />
-  </div>
+  <router-view />
 </template>
+
+<script>
+export default {
+  name: "App",
+  components: {},
+};
+</script>
+
+<style scoped>
+.logo-type {
+  margin: 50px auto;
+  width: 200px;
+  height: 200px;
+}
+</style>
