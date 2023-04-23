@@ -162,12 +162,10 @@
   "resolved" "https://registry.npmjs.org/array-uniq/-/array-uniq-1.0.3.tgz"
   "version" "1.0.3"
 
-"async@^2.6.1":
-  "integrity" "sha512-mzo5dfJYwAn29PeiJ0zvwTo04zj8HDJj0Mn8TD7sno7q12prdbnasKJHhkm2c1LgrhlJ0teaea8860oxi51mGA=="
-  "resolved" "https://registry.npmjs.org/async/-/async-2.6.4.tgz"
-  "version" "2.6.4"
-  dependencies:
-    "lodash" "^4.17.14"
+"async@^3.2.4":
+  "integrity" "sha512-iAB+JbDEGXhyIUavoDl9WP/Jj106Kz9DEn1DPgYw5ruDn0e3Wgi3sKFm55sASdGBNOQB8F59d9qQ7deqrHA8wQ=="
+  "resolved" "https://registry.npmjs.org/async/-/async-3.2.4.tgz"
+  "version" "3.2.4"
 
 "balanced-match@^1.0.0":
   "integrity" "sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw=="
@@ -202,10 +200,10 @@
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-2.6.21.tgz"
   "version" "2.6.21"
 
-"email-addresses@^3.0.1":
-  "integrity" "sha512-k0/r7GrWVL32kZlGwfPNgB2Y/mMXVTq/decgLczm/j34whdaspNrZO8CnXPf1laaHxI6ptUlsnAxN+UAPw+fzg=="
-  "resolved" "https://registry.npmjs.org/email-addresses/-/email-addresses-3.1.0.tgz"
-  "version" "3.1.0"
+"email-addresses@^5.0.0":
+  "integrity" "sha512-4OIPYlA6JXqtVn8zpHpGiI7vE6EQOAg16aGnDMIAlZVinnoZ8208tW1hAbjWydgN/4PLTT9q+O1K6AH/vALJGw=="
+  "resolved" "https://registry.npmjs.org/email-addresses/-/email-addresses-5.0.0.tgz"
+  "version" "5.0.0"
 
 "esbuild-windows-64@0.15.18":
   "integrity" "sha512-qinug1iTTaIIrCorAUjR0fcBk24fjzEedFYhhispP8Oc7SFvs+XeW3YpAKiKp8dRpizl4YYAhxMjlftAMJiaUw=="
@@ -300,14 +298,14 @@
   "resolved" "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
   "version" "1.1.1"
 
-"gh-pages@4.0.0":
-  "integrity" "sha512-p8S0T3aGJc68MtwOcZusul5qPSNZCalap3NWbhRUZYu1YOdp+EjZ+4kPmRM8h3NNRdqw00yuevRjlkuSzCn7iQ=="
-  "resolved" "https://registry.npmjs.org/gh-pages/-/gh-pages-4.0.0.tgz"
-  "version" "4.0.0"
+"gh-pages@5.0.0":
+  "integrity" "sha512-Nqp1SjkPIB94Xw/3yYNTUL+G2dxlhjvv1zeN/4kMC1jfViTEqhtVz/Ba1zSXHuvXCN9ADNS1dN4r5/J/nZWEQQ=="
+  "resolved" "https://registry.npmjs.org/gh-pages/-/gh-pages-5.0.0.tgz"
+  "version" "5.0.0"
   dependencies:
-    "async" "^2.6.1"
+    "async" "^3.2.4"
     "commander" "^2.18.0"
-    "email-addresses" "^3.0.1"
+    "email-addresses" "^5.0.0"
     "filenamify" "^4.3.0"
     "find-cache-dir" "^3.3.1"
     "fs-extra" "^8.1.0"
@@ -381,11 +379,6 @@
   "version" "5.0.0"
   dependencies:
     "p-locate" "^4.1.0"
-
-"lodash@^4.17.14":
-  "integrity" "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg=="
-  "resolved" "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
-  "version" "4.17.21"
 
 "lru-cache@^6.0.0":
   "integrity" "sha512-Jo6dJ04CmSjuznwJSS3pUeWmd/H0ffTlkXXgwZi+eq1UCmqQwCh+eLsYOYCwY991i2Fah4h1BEMCx4qThGbsiA=="
