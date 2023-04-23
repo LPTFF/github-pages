@@ -1,3 +1,3 @@
 <template>
-  <div>Aboutページです</div>
+  <div>About</div>
 </template>
